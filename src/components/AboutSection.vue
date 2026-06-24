@@ -7,33 +7,30 @@
         </div>
         <header class="section-header reveal">
           <span class="eyebrow">Quem está por trás</span>
-          <h2 id="about-h" class="section-title">Desenvolvedor por treino, <em>founder por vocação</em></h2>
-          <p class="section-sub">Engenharia disciplinada, código limpo e foco em entregar valor real — não só linhas em produção.</p>
+          <h2 id="about-h" class="section-title">Estudante por dedicação, <em style="color: #16a34a;">desenvolvedor por vocação</em></h2>
+          <p class="section-sub">Engenharia disciplinada, código limpo e foco em integrar software e hardware — não só linhas em produção.</p>
         </header>
 
         <div class="about-grid">
           <div class="about-bio reveal" data-d="1">
             <p class="lead">
-              Comecei a programar aos <em>11 anos</em> por pura curiosidade — e nunca parei. Hoje, com 8+ anos de carreira, trabalho na ponta de plataformas enterprise enquanto construo, à parte, o produto que tem o meu nome.
+              Sou estudante de Engenharia da Computação, movido pela curiosidade de entender como as coisas funcionam por baixo dos panos. Utilizando meu ambiente macOS, dedico-me a construir soluções que vão desde a interface do usuário até a comunicação direta com os servidores.
             </p>
             <p>
-              Atuo como <strong>Desenvolvedor Full Stack Sênior na Plusoft InPaaS</strong>, desenvolvendo e customizando a plataforma <em>Hike</em> — solução corporativa de automação de processos (BPM), CRM e Gestão Comercial. Sou responsável por integrações, automação de fluxos, novas funcionalidades e otimização de processos para diferentes clientes e operações.
+              Tenho forte atuação no desenvolvimento full-stack, criando aplicações móveis, sistemas de responsabilização e APIs de gestão. Minha stack técnica inclui o domínio de React Native, PHP, Java e Python (Django). Além da programação, construo e gerencio ecossistemas de infraestrutura de TI, elaborando dashboards detalhados no Grafana e orquestrando automações robustas via Zabbix e N8N.
             </p>
             <p>
-              Ao longo da carreira, trabalhei em projetos enterprise com regras de negócio complexas, integrações REST, arquiteturas escaláveis e squads multidisciplinares. Tenho domínio profundo em <strong>Laravel, PHP, Java, Vue.js, Angular, Flutter, Ionic, AWS, Docker</strong> e múltiplos bancos relacionais.
-            </p>
-            <p>
-              Como projeto pessoal, idealizei e desenvolvo o <strong><a href="#fisioly" style="color:var(--brand-2);border-bottom:1px solid rgba(255,106,77,.35);">Fisioly</a></strong> — um SaaS de gestão para clínicas de fisioterapia que hoje atende <strong>200+ profissionais ativos</strong> no Brasil.
+              No mundo físico, aplico meus conhecimentos em projetos de hardware e IoT. Transformo teoria em prática desenvolvendo protótipos com microcontroladores ESP8266 e ESP32, desde maquetes de estacionamento com sensores ultrassônicos até sistemas de medição de empuxo para motores.
             </p>
             <p style="font-family:var(--font-serif);font-size:22px;font-style:italic;color:var(--ink);line-height:1.4;margin-top:32px;">
-              Mais do que escrever código — entrego soluções que impactam negócios.
+              Mais do que escrever código — construo infraestruturas que conectam o digital ao mundo real.
             </p>
 
             <div class="about-signature">
               <span class="sig">Igor</span>
               <div class="who">
                 <strong>Igor Brito</strong>
-                <span>Desenvolvedor Full Stack Sênior · Founder, Fisioly</span>
+                <span>Desenvolvedor Full-Stack & Estudante de Engenharia</span>
               </div>
             </div>
           </div>
@@ -42,10 +39,10 @@
             <div class="about-card">
               <div class="about-card-photo">
                 <img src="../assets/minha-foto.jpeg" alt="Igor Brito — desenvolvedor de software" width="420" height="525" loading="lazy" />
-                <span class="tag"><span class="d"></span>Disponível p/ projetos</span>
+                <span class="tag" style="background-color: #dcfce7; color: #166534;"><span class="d" style="background-color: #166534;"></span>STATUS: Disponível p/ Projetos</span>
                 <div class="stamp">
-                  <span>Igor Brito / 2026</span>
-                  <span>SJC-BR</span>
+                  <span>TAG: IGOR BRITO / 2026</span>
+                  <span>LOCAL: São Paulo, SP - BR</span>
                 </div>
               </div>
               <div class="about-card-info">
