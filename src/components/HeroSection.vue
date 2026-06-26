@@ -29,7 +29,7 @@
             <div class="hero-tag-row">
               <span class="num">N° 01</span>
               <span class="sep"></span>
-              <span>Desenvolvedor · Founder · Builder</span>
+              <span>DESENVOLVEDOR • ENGENHEIRO DA COMPUTACAO • AI ENTHUSIAST</span>
             </div>
 
             <h1 id="hero-name" class="hero-name">
@@ -38,21 +38,21 @@
             </h1>
 
             <div class="hero-role">
-              <span class="role-pill">Desenvolvedor Full Stack <em>Sênior</em></span>
-              <span class="mono" style="font-size:12px;color:var(--muted);">— hoje na Plusoft InPaaS · founder do Fisioly</span>
+              <span class="role-pill">Desenvolvedor Full Stack & Infra</span>
+              <span class="mono" style="font-size:12px;color:var(--muted);">— hoje na Visiona Tecnologia Espacial</span>
             </div>
 
             <p class="hero-bio">
-              Construo <strong>sistemas enterprise</strong>, APIs escaláveis e produtos SaaS que sustentam negócios reais. <em>8+ anos</em> entregando software com Laravel, Vue, Angular, Java e Flutter — do MVP de fim de semana à plataforma BPM que serve grandes operações.
+              Construo aplicações full-stack, APIs robustas e soluções de automação e IoT que resolvem problemas reais. Transformo dados em inteligência com Python (Django/FastAPI) e Vue.js, integrando desde sistemas on-premise até o monitoramento avançado de infraestrutura corporativa.
             </p>
 
             <div class="hero-actions">
               <a href="#contact" class="btn btn-lg btn-primary" data-magnetic>
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.7.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.4-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.2-.5.1-.2 0-.4 0-.5 0-.1-.7-1.6-.9-2.2-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.4 0 1.4 1 2.8 1.2 3 .1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.5-.1 1.7-.7 1.9-1.4.2-.7.2-1.2.2-1.4 0-.1-.2-.2-.4-.3z"/><path d="M12 1C5.9 1 1 5.9 1 12c0 2 .5 3.9 1.5 5.6L1 23l5.5-1.5c1.6.9 3.5 1.4 5.5 1.4 6.1 0 11-4.9 11-11S18.1 1 12 1zm0 20c-1.7 0-3.3-.5-4.7-1.3l-.3-.2-3.5 1 1-3.4-.2-.4C3.5 15.3 3 13.7 3 12c0-5 4-9 9-9s9 4 9 9-4 9-9 9z"/></svg>
-                Fale comigo
+                Fale comigo no WhatsApp
               </a>
-              <a href="#timeline" class="btn btn-lg btn-glass">
-                Ver trajetória
+              <a href="https://github.com/igorfigueiredobrito" target="_blank" class="btn btn-lg btn-glass">
+                Ver projetos no GitHub
                 <span class="arrow"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
               </a>
             </div>
@@ -71,9 +71,9 @@
                 <span class="r">f/2.8 · TBT</span>
               </div>
             </div>
-            <span class="float-tag t1"><span class="d"></span>Sênior · 8+ anos</span>
-            <span class="float-tag t2"><span class="d"></span>Founder · Fisioly</span>
-            <span class="float-tag t3"><span class="d"></span>Plusoft · InPaaS</span>
+            <span class="float-tag t1"><span class="d"></span>Full Stack Jr.</span>
+            <span class="float-tag t2"><span class="d"></span>Computer Engineer</span>
+            <span class="float-tag t3"><span class="d"></span>Visiona Tec. Espacial</span>
           </div>
         </div>
 
@@ -81,29 +81,41 @@
           <span class="label">Stack</span>
           <div class="stack-marquee">
             <div class="stack-marquee-inner">
-              <span class="stack-item"><span class="marker"></span>Laravel</span>
-              <span class="stack-item"><span class="marker"></span>PHP 8</span>
+              <span class="stack-item"><span class="marker"></span>Python</span>
+              <span class="stack-item"><span class="marker"></span>Django</span>
+              <span class="stack-item"><span class="marker"></span>FastAPI</span>
               <span class="stack-item"><span class="marker"></span>Java</span>
-              <span class="stack-item"><span class="marker"></span>Vue 3</span>
-              <span class="stack-item"><span class="marker"></span>Angular</span>
-              <span class="stack-item"><span class="marker"></span>Flutter</span>
-              <span class="stack-item"><span class="marker"></span>Ionic</span>
+              <span class="stack-item"><span class="marker"></span>PHP</span>
+              <span class="stack-item"><span class="marker"></span>JavaScript</span>
+              <span class="stack-item"><span class="marker"></span>Vue.js</span>
               <span class="stack-item"><span class="marker"></span>Node.js</span>
-              <span class="stack-item"><span class="marker"></span>TypeScript</span>
-              <span class="stack-item"><span class="marker"></span>AWS</span>
               <span class="stack-item"><span class="marker"></span>Docker</span>
+              <span class="stack-item"><span class="marker"></span>Git</span>
+              <span class="stack-item"><span class="marker"></span>Linux</span>
+              <span class="stack-item"><span class="marker"></span>Proxmox</span>
+              <span class="stack-item"><span class="marker"></span>AWS/GCP</span>
+              <span class="stack-item"><span class="marker"></span>Grafana</span>
+              <span class="stack-item"><span class="marker"></span>Zabbix</span>
+              <span class="stack-item"><span class="marker"></span>n8n</span>
+              <span class="stack-item"><span class="marker"></span>ESP32/ESP8266</span>
               <!-- Duplicate for seamless loop -->
-              <span class="stack-item"><span class="marker"></span>Laravel</span>
-              <span class="stack-item"><span class="marker"></span>PHP 8</span>
+              <span class="stack-item"><span class="marker"></span>Python</span>
+              <span class="stack-item"><span class="marker"></span>Django</span>
+              <span class="stack-item"><span class="marker"></span>FastAPI</span>
               <span class="stack-item"><span class="marker"></span>Java</span>
-              <span class="stack-item"><span class="marker"></span>Vue 3</span>
-              <span class="stack-item"><span class="marker"></span>Angular</span>
-              <span class="stack-item"><span class="marker"></span>Flutter</span>
-              <span class="stack-item"><span class="marker"></span>Ionic</span>
+              <span class="stack-item"><span class="marker"></span>PHP</span>
+              <span class="stack-item"><span class="marker"></span>JavaScript</span>
+              <span class="stack-item"><span class="marker"></span>Vue.js</span>
               <span class="stack-item"><span class="marker"></span>Node.js</span>
-              <span class="stack-item"><span class="marker"></span>TypeScript</span>
-              <span class="stack-item"><span class="marker"></span>AWS</span>
               <span class="stack-item"><span class="marker"></span>Docker</span>
+              <span class="stack-item"><span class="marker"></span>Git</span>
+              <span class="stack-item"><span class="marker"></span>Linux</span>
+              <span class="stack-item"><span class="marker"></span>Proxmox</span>
+              <span class="stack-item"><span class="marker"></span>AWS/GCP</span>
+              <span class="stack-item"><span class="marker"></span>Grafana</span>
+              <span class="stack-item"><span class="marker"></span>Zabbix</span>
+              <span class="stack-item"><span class="marker"></span>n8n</span>
+              <span class="stack-item"><span class="marker"></span>ESP32/ESP8266</span>
             </div>
           </div>
           <span class="hero-scroll-hint">Role <span class="arrow-line"></span></span>
