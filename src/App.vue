@@ -22,55 +22,36 @@
 
         <div class="stack-grid reveal" data-d="1">
           <div class="stack-col">
-            <div class="stack-col-head">Frontend</div>
+            <div class="stack-col-head">Back-end & APIs</div>
             <div class="stack-list">
-              <div class="stack-pill"><span class="ico">V</span>Vue.js</div>
-              <div class="stack-pill"><span class="ico">A</span>Angular</div>
-              <div class="stack-pill"><span class="ico">Ts</span>TypeScript</div>
-              <div class="stack-pill"><span class="ico">Js</span>JavaScript</div>
-              <div class="stack-pill"><span class="ico">T</span>Tailwind CSS</div>
-              <div class="stack-pill"><span class="ico">B</span>Bootstrap</div>
-            </div>
-          </div>
-          <div class="stack-col">
-            <div class="stack-col-head">Backend</div>
-            <div class="stack-list">
-              <div class="stack-pill"><span class="ico">L</span>Laravel</div>
-              <div class="stack-pill"><span class="ico">P</span>PHP 8</div>
+              <div class="stack-pill"><span class="ico">Py</span>Python (Django, FastAPI)</div>
               <div class="stack-pill"><span class="ico">J</span>Java</div>
-              <div class="stack-pill"><span class="ico">S</span>Spring Boot</div>
-              <div class="stack-pill"><span class="ico">N</span>Node.js</div>
-              <div class="stack-pill"><span class="ico">C</span>CakePHP</div>
+              <div class="stack-pill"><span class="ico">P</span>PHP</div>
             </div>
           </div>
           <div class="stack-col">
-            <div class="stack-col-head">Mobile</div>
+            <div class="stack-col-head">Front-end</div>
             <div class="stack-list">
-              <div class="stack-pill"><span class="ico">F</span>Flutter</div>
-              <div class="stack-pill"><span class="ico">I</span>Ionic</div>
-              <div class="stack-pill"><span class="ico">A</span>Android</div>
-              <div class="stack-pill"><span class="ico">iO</span>iOS</div>
-              <div class="stack-pill"><span class="ico">D</span>Dart</div>
+              <div class="stack-pill"><span class="ico">Js</span>JavaScript (Vue.js, Node.js)</div>
             </div>
           </div>
           <div class="stack-col">
-            <div class="stack-col-head">Bancos</div>
+            <div class="stack-col-head">Infraestrutura & DevOps</div>
             <div class="stack-list">
-              <div class="stack-pill"><span class="ico">P</span>PostgreSQL</div>
-              <div class="stack-pill"><span class="ico">M</span>MySQL</div>
-              <div class="stack-pill"><span class="ico">Q</span>SQL Server</div>
-              <div class="stack-pill"><span class="ico">R</span>Redis</div>
-              <div class="stack-pill"><span class="ico">M</span>MongoDB</div>
-            </div>
-          </div>
-          <div class="stack-col">
-            <div class="stack-col-head">Cloud / DevOps</div>
-            <div class="stack-list">
-              <div class="stack-pill"><span class="ico">A</span>AWS</div>
               <div class="stack-pill"><span class="ico">D</span>Docker</div>
-              <div class="stack-pill"><span class="ico">N</span>Nginx</div>
+              <div class="stack-pill"><span class="ico">G</span>Git</div>
               <div class="stack-pill"><span class="ico">L</span>Linux</div>
-              <div class="stack-pill"><span class="ico">G</span>Git · GitHub</div>
+              <div class="stack-pill"><span class="ico">Px</span>Proxmox</div>
+              <div class="stack-pill"><span class="ico">C</span>AWS/GCP</div>
+            </div>
+          </div>
+          <div class="stack-col">
+            <div class="stack-col-head">Monitoramento & IoT</div>
+            <div class="stack-list">
+              <div class="stack-pill"><span class="ico">Gf</span>Grafana</div>
+              <div class="stack-pill"><span class="ico">Z</span>Zabbix</div>
+              <div class="stack-pill"><span class="ico">N</span>n8n</div>
+              <div class="stack-pill"><span class="ico">E</span>ESP32/ESP8266</div>
             </div>
           </div>
         </div>

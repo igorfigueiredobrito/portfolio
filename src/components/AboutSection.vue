@@ -7,30 +7,30 @@
         </div>
         <header class="section-header reveal">
           <span class="eyebrow">Quem está por trás</span>
-          <h2 id="about-h" class="section-title">Estudante por dedicação, <em style="color: #16a34a;">desenvolvedor por vocação</em></h2>
-          <p class="section-sub">Engenharia disciplinada, código limpo e foco em integrar software e hardware — não só linhas em produção.</p>
+          <h2 id="about-h" class="section-title">Engenheiro por princípio, <em style="color: #16a34a;">desenvolvedor por vocação</em></h2>
+          <p class="section-sub">Engenharia disciplinada, código limpo e foco em integrar software e Inteligência Artificial para entregar valor real ao negócio.</p>
         </header>
 
         <div class="about-grid">
           <div class="about-bio reveal" data-d="1">
             <p class="lead">
-              Sou estudante de Engenharia da Computação, movido pela curiosidade de entender como as coisas funcionam por baixo dos panos. Utilizando meu ambiente macOS, dedico-me a construir soluções que vão desde a interface do usuário até a comunicação direta com os servidores.
+              Movido pela complexidade dos sistemas modernos, minha jornada na Engenharia da Computação é focada em construir a base sólida por trás de aplicações de alto nível. Hoje, atuo no design de arquiteturas de software escaláveis, no desenvolvimento de APIs robustas e na integração de Inteligência Artificial em soluções corporativas.
             </p>
             <p>
-              Tenho forte atuação no desenvolvimento full-stack, criando aplicações móveis, sistemas de responsabilização e APIs de gestão. Minha stack técnica inclui o domínio de React Native, PHP, Java e Python (Django). Além da programação, construo e gerencio ecossistemas de infraestrutura de TI, elaborando dashboards detalhados no Grafana e orquestrando automações robustas via Zabbix e N8N.
+              Minha especialidade está no desenvolvimento full-stack moderno e na engenharia de dados. Projeto ecossistemas de back-end e pipelines resilientes utilizando Python e Node.js, enquanto construo interfaces dinâmicas e de alta performance no front-end com JavaScript, Vue.js e Vite. Tenho facilidade em atuar em ambientes que exigem regras de negócio complexas, integrações RESTful e infraestrutura escalável.
             </p>
             <p>
-              No mundo físico, aplico meus conhecimentos em projetos de hardware e IoT. Transformo teoria em prática desenvolvendo protótipos com microcontroladores ESP8266 e ESP32, desde maquetes de estacionamento com sensores ultrassônicos até sistemas de medição de empuxo para motores.
+              Muito além de escrever código, eu construo ecossistemas completos. Desde a implantação de modelos de IA locais (LLaMA) e estruturação de plataformas SaaS como o Caktus Finance, até a orquestração de monitoramento automatizado com Docker, Grafana e n8n. Transformo a teoria técnica em infraestruturas prontas para produção.
             </p>
             <p style="font-family:var(--font-serif);font-size:22px;font-style:italic;color:var(--ink);line-height:1.4;margin-top:32px;">
-              Mais do que escrever código — construo infraestruturas que conectam o digital ao mundo real.
+              Mais do que escrever linhas de código — construo infraestruturas inteligentes que conectam dados a impacto de negócio.
             </p>
 
             <div class="about-signature">
               <span class="sig">Igor</span>
               <div class="who">
                 <strong>Igor Brito</strong>
-                <span>Desenvolvedor Full-Stack & Estudante de Engenharia</span>
+                <span>Desenvolvedor Full-Stack & Engenheiro de Dados</span>
               </div>
             </div>
           </div>
@@ -46,10 +46,10 @@
                 </div>
               </div>
               <div class="about-card-info">
-                <div class="info-row"><span class="k">Empresa</span><span class="v">Plusoft InPaaS</span></div>
+                <div class="info-row"><span class="k">Empresa</span><span class="v">Visiona Tecnologia Espacial</span></div>
                 <div class="info-row"><span class="k">Local</span><span class="v">São José dos Campos, SP · BR</span></div>
-                <div class="info-row"><span class="k">Foco</span><span class="v">SaaS · Enterprise · Web</span></div>
-                <div class="info-row"><span class="k">Stack</span><span class="v">Laravel · Vue · Java · AngularJS</span></div>
+                <div class="info-row"><span class="k">Foco</span><span class="v">Engenharia de Software · Dados · IA</span></div>
+                <div class="info-row"><span class="k">Stack</span><span class="v">Python · Node.js · Vue.js · Vite</span></div>
                 <div class="info-row"><span class="k">Email</span><span class="v"><a href="mailto:contato@igorbrito.com">contato@igorbrito.com</a></span></div>
                 <div class="info-row"><span class="k">Status</span><span class="v dotted">Aceitando projetos</span></div>
                 <a href="https://api.whatsapp.com/send?phone=5511999999999" target="_blank" rel="noopener" class="about-card-cta">
