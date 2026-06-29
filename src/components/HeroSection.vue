@@ -14,7 +14,7 @@
           <div class="left">
             <span class="eyebrow">Portfolio · MMXXVI</span>
             <span class="badge">
-              <span class="dot-wrap">Disponível</span>
+              <span class="dot-wrap" style="color: var(--brand-deep); font-weight: 700;">Disponível</span>
               Aceitando projetos para 2026
             </span>
           </div>
@@ -29,25 +29,25 @@
             <div class="hero-tag-row">
               <span class="num">N° 01</span>
               <span class="sep"></span>
-              <span>DESENVOLVEDOR • ENGENHEIRO DE DADOS • MAKER</span>
+              <span>Desenvolvedor • Engenheiro da Computação • IA ENTHUSIAST</span>
             </div>
 
             <h1 id="hero-name" class="hero-name">
               <span class="row"><span class="word">Igor</span></span>
-              <span class="row"><span class="word prado">Brito</span></span>
+              <span class="row"><span class="word brito">Brito</span></span>
             </h1>
 
             <div class="hero-role">
-              <span class="role-pill">Desenvolvedor Full Stack & Infra</span>
+              <span class="role-pill">Desenvolvedor Full Stack <span style="color: var(--brand-2);">Jr.</span></span>
               <span class="mono" style="font-size:12px;color:var(--muted);">— hoje na Visiona Tecnologia Espacial</span>
             </div>
 
             <p class="hero-bio">
-              Construo aplicações full-stack, APIs robustas e soluções de automação e IoT que resolvem problemas reais. Transformo dados em inteligência com Python (Django/FastAPI) e Vue.js, integrando desde sistemas on-premise até o monitoramento avançado de infraestrutura corporativa.
+              Desenvolvedor e Engenheiro focado em soluções tecnológicas integradas. Do código ao servidor, utilizo minha base em desenvolvimento, infraestrutura e redes para arquitetar sistemas seguros, criar aplicações escaláveis e automatizar processos que impulsionam resultados reais.
             </p>
 
             <div class="hero-actions">
-              <a href="https://wa.me/5511999999999" target="_blank" rel="noopener" class="btn btn-lg btn-primary" data-magnetic>
+              <a href="https://wa.me/5512982112088" target="_blank" rel="noopener" class="btn btn-lg btn-primary" data-magnetic>
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.7.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.4-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.2-.5.1-.2 0-.4 0-.5 0-.1-.7-1.6-.9-2.2-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.4 0 1.4 1 2.8 1.2 3 .1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.5-.1 1.7-.7 1.9-1.4.2-.7.2-1.2.2-1.4 0-.1-.2-.2-.4-.3z"/><path d="M12 1C5.9 1 1 5.9 1 12c0 2 .5 3.9 1.5 5.6L1 23l5.5-1.5c1.6.9 3.5 1.4 5.5 1.4 6.1 0 11-4.9 11-11S18.1 1 12 1zm0 20c-1.7 0-3.3-.5-4.7-1.3l-.3-.2-3.5 1 1-3.4-.2-.4C3.5 15.3 3 13.7 3 12c0-5 4-9 9-9s9 4 9 9-4 9-9 9z"/></svg>
                 Fale comigo no WhatsApp
               </a>
@@ -71,8 +71,8 @@
                 <span class="r">f/2.8 · TBT</span>
               </div>
             </div>
-            <span class="float-tag t1"><span class="d"></span>Full Stack • IoT</span>
-            <span class="float-tag t2"><span class="d"></span>Engenharia • Univap</span>
+            <span class="float-tag t1"><span class="d"></span>Full Stack</span>
+            <span class="float-tag t2"><span class="d"></span>Computer Engineer</span>
             <span class="float-tag t3"><span class="d"></span>Visiona Tec. Espacial</span>
           </div>
         </div>

@@ -2,7 +2,7 @@
     <section id="fisioly" class="fisioly" aria-labelledby="fisioly-h">
       <div class="container">
         <div class="section-meta reveal">
-          <span class="num" style="color:#b282ff;">§ 04</span>
+          <span class="num" style="color:#b282ff;">N° 04</span>
           <span class="name">Projeto SaaS principal</span>
         </div>
         <header class="section-header reveal">

@@ -52,6 +52,7 @@
 
     html { scroll-behavior: smooth; scroll-padding-top: 90px; }
     body {
+      zoom: 0.9;
       font-family: var(--font-sans);
       background: var(--bg);
       color: var(--ink);
@@ -367,7 +368,7 @@
     .hero-name .word { display: inline-block; opacity: 0; transform: translateY(110%); animation: wordIn 1.2s var(--ease-out) forwards; }
     .hero-name .row:nth-child(1) .word { animation-delay: .15s; }
     .hero-name .row:nth-child(2) .word { animation-delay: .3s; }
-    .hero-name .prado {
+    .hero-name .brito {
       font-family: var(--font-serif);
       font-style: italic;
       font-weight: 400;
@@ -1224,7 +1225,7 @@
     .stack-section { background: var(--bg); }
     .stack-grid {
       display: grid;
-      grid-template-columns: repeat(5, 1fr);
+      grid-template-columns: repeat(4, 1fr);
       border: 1px solid var(--line);
       border-radius: var(--r-lg);
       overflow: hidden;

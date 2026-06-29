@@ -1,8 +1,8 @@
 <template>
     <section id="timeline" class="timeline-section" aria-labelledby="tl-h">
-      <div class="container-narrow">
+      <div class="container">
         <div class="section-meta reveal">
-          <span class="num">§ 03</span>
+          <span class="num">N° 03</span>
           <span class="name">Carreira / Trajetória</span>
         </div>
         <header class="section-header reveal">
@@ -21,7 +21,7 @@
                 <div>
                   <div class="tl-meta-left" style="margin-bottom:10px;">
                     <span class="tl-index">2024 — hoje</span>
-                    <span class="tl-current">● Atualmente</span>
+                    <span class="tl-current">Atualmente</span>
                   </div>
                   <h3 class="tl-company">Visiona Tecnologia Espacial<span class="sup">i</span></h3>
                   <div class="tl-role">Estagiário em T.I.</div>
