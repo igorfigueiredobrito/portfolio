@@ -5,10 +5,10 @@
   
   <h1>Igor Brito — Portfólio Profissional</h1>
   
-  <p>Engenharia de Software • Infraestrutura • Automação • Back-End</p>
+  <p>Engenharia da Computação • Desenvolvimento • Full Stack • IA</p>
   
   <p>
-    <strong><a href="https://igorfigueiredobrito.github.io/">🚀 Acessar o Portfólio Ao Vivo</a></strong>
+    <strong><a href="https://igorfigueiredobrito.github.io/"> ☕ Acessar o Portfólio</a></strong>
   </p>
 </div>
 
