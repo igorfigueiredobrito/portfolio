@@ -8,7 +8,7 @@
   <p>Engenharia da Computação • Desenvolvimento • Full Stack • IA</p>
   
   <p>
-    <strong><a href="https://igorfigueiredobrito.github.io/"> ☕ Acessar o Portfólio</a></strong>
+    <strong><a href="https://igorfigueiredobrito.github.io/">Acessar o Portfólio</a></strong>
   </p>
 </div>
 
